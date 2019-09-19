@@ -1,0 +1,9 @@
+body{
+    background:#e68a00;
+}
+.contenido{
+    border-radius: 25px;
+    background-color:#2e00e6;
+    width: 400px;
+    text-align:center
+}
